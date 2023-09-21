@@ -7,6 +7,6 @@
 2 - download Получает dataframe и скачивает все  значения в csv файл для работы со всеми значеиями в будующем
 3 - graphic Строит графики интересных нам значений акций Lineplot или Barplot
 
-[Alt text](https://github.com/DanilChernov1/Python_for_data_sience_project/blob/main/Im1.jpg)
-[Alt text](https://github.com/DanilChernov1/Python_for_data_sience_project/blob/main/Im2.jpg)
-[Alt text](https://github.com/DanilChernov1/Python_for_data_sience_project/blob/main/Im3.jpg)
+![Alt text](https://github.com/DanilChernov1/Python_for_data_sience_project/blob/main/Im1.jpg)
+![Alt text](https://github.com/DanilChernov1/Python_for_data_sience_project/blob/main/Im2.jpg)
+![Alt text](https://github.com/DanilChernov1/Python_for_data_sience_project/blob/main/Im3.jpg)
